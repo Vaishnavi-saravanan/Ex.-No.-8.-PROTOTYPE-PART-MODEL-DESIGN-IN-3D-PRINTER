@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot (210)](https://github.com/Vaishnavi-saravanan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118541897/9260bec2-0b23-471c-8c3e-817fa8d2468f)
+![Screenshot (211)](https://github.com/Vaishnavi-saravanan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118541897/7094dd7d-dbc5-41f5-905c-2bf14eaea765)
+
+
+
+### Name:VAISHNAVI S
+### Register Number:2122230165
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
